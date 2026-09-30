@@ -1,0 +1,7 @@
+participant,run,timestamp,trial,condition,intruded_word
+Asghar,1,2026-09-17 17:42:59,4,pause,clock
+Asghar,2,2026-09-21 19:50:36,2,fast,dagger
+Asghar,2,2026-09-21 19:50:36,3,pause,jacket
+Asghar,2,2026-09-21 19:50:36,4,filled,parrot
+Asghar,2,2026-09-21 19:50:36,4,filled,clock
+Asghar,3,2026-09-21 20:14:35,3,filled,harp

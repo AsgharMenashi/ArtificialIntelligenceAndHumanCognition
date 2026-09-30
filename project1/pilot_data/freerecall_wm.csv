@@ -1,0 +1,4 @@
+participant,run,timestamp,trial,start_number,typed_sequence,n_correct_steps
+Asghar,1,2026-09-17 17:42:59,2,138,137 136 135 135,0
+Asghar,2,2026-09-21 19:50:36,4,438,426 423 420,2
+Asghar,3,2026-09-21 20:14:35,3,132,129 126 123 120 117 114 111 108 105 102 99 96 93 90,13
